@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "user": {
+        "name": "John Doe",
+        "profileImg": "require('../assets/photodeprofil.jpg')" ,
+        "username": "John Doe",
+        "bio": "Hello everyone, i like nature",
+        "gender": "Homme",
+        "age": 22,
+        "country": "France",
+        "city": "Lille"
+      },
+      "image": "./assets/post1.jpg",
+      "date": "12 avril 2024",
+      "likesCount": 10,
+      "commentsCount": 5,
+      "sharesCount": 3,
+      "savesCount": 7,
+      "Description": "i like this place",
+      "Location": "Country: France, City: Lille, Adresse: 45 rue peyssonnel",
+      "Transportation": "Car: 45 min , Bus: 55 min, Foot: 2j",
+      "Cost": "45 euros",
+      "isLiked": false,
+      "isSaved": false,
+      "userText": "",
+      "comments": []
+    }
+  ]
+  
